@@ -1,4 +1,7 @@
 # Steam-ACC-Checker
+!ONLY FOR EDUCATIONAL PURPOSES!
+
+
 Check if ur old steam Accounts are still active and working!
 
 
